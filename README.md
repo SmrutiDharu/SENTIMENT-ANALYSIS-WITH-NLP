@@ -85,3 +85,6 @@ Neutral (3): Removed to maintain clear binary classification
 6.Visualization & Analysis
 
 ##OUTPUT:
+<img width="1755" height="711" alt="Image" src="https://github.com/user-attachments/assets/c344a183-9a4b-4210-aff1-90c5b1fdcbb1" />
+
+<img width="1846" height="973" alt="Image" src="https://github.com/user-attachments/assets/9666d71f-10e6-4e5d-bd35-9ee3cf7a4ad4" />
